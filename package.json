@@ -31,7 +31,7 @@
     "gulp-sourcemaps": "~2",
     "gulp-start": "~1",
     "gulp-uglify": "~2",
-    "gulp-util": "~3",
+    "gulp-util": "~3.0.8",
     "gulp-watch": "~4",
     "gulp-zip": "~3",
     "less": "~2",
