@@ -34,7 +34,7 @@
     "gulp-util": "~3",
     "gulp-watch": "~4",
     "gulp-zip": "~3",
-    "less": "~2",
+    "less": "~2.7.2",
     "main-bower-files": "~2",
     "require-dir": "~0",
     "uglify-js": "~2",
